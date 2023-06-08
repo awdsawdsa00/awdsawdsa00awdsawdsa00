@@ -1,0 +1,21 @@
+h1{
+    color: saddlebrown;
+    font: 450px;
+    text-align: center;
+}
+P, li{
+    font: size 40px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+html{
+    background-color: rgb(158, 188, 198);
+}
+body{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(246, 235, 196);
+}
